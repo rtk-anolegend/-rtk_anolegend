@@ -1,4 +1,4 @@
-# -rtk_anolegend
+# rtk_anolegend
 9729418232
 # Built application files
 *.apk
